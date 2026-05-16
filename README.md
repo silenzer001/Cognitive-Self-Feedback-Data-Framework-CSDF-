@@ -1,4 +1,4 @@
-# CSDF: Cognitive Self-Feedback Data Framework
+# CSDF: Cognitive Self-Feedback Data Framework (UPDATE 16/5/2026)
 
 **A brain-inspired architecture for persistent, self-evolving AI memory**
 
